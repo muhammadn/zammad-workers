@@ -1,0 +1,5 @@
+db:
+  adapter: postgresql
+  name: zammad_development
+  user: devel
+  password: password
